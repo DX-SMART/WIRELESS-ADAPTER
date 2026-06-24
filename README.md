@@ -9,6 +9,7 @@ Please find your product model below and click the corresponding "Download" link
 | Product Model | Download Link (Direct Download) |
 | :--- | :--- |
 | **DX-CP11** | [Download (RAR)](https://github.com/DX-SMART/WIRELESS-ADAPTER/releases/download/DX-CP11/DX-CP11.zip) |
+| **DX-CP24** | [Download (RAR)](https://github.com/DX-SMART/WIRELESS-ADAPTER/releases/download/DX-CP24/DX-CP24.Development.User.Information.rar) |
 | **DX-CP26** | [Download (RAR)](https://github.com/DX-SMART/WIRELESS-ADAPTER/releases/download/DX-CP26/DX-CP26.Development.User.Information.rar) |
 | **DX-CP31** | [Download (RAR)](https://github.com/DX-SMART/WIRELESS-ADAPTER/releases/download/DX-CP31/DX-CP31.Development.User.Information.rar) |
 
